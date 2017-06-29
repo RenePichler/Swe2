@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1493575252 source:c:\users\caveman1\nextcloud\fh salzburg itsb-b2016\2. semester\softwareentwicklung 2\c von a bis z\kapitel 25 netzwerkprogrammierung und cross-plattform-entwicklung\server_client_morsecode\binarytree.c
+	<stdio.h>
+	<stdlib.h>
+	"binarytree.h"
+
+1493578154 source:c:\users\caveman1\nextcloud\fh salzburg itsb-b2016\2. semester\softwareentwicklung 2\c von a bis z\kapitel 25 netzwerkprogrammierung und cross-plattform-entwicklung\server_client_morsecode\main.c
+	<stdio.h>
+	<stdlib.h>
+	"binarytree.h"
+	"console.h"
+	<winsock2.h>
+
+1493577788 c:\users\caveman1\nextcloud\fh salzburg itsb-b2016\2. semester\softwareentwicklung 2\c von a bis z\kapitel 25 netzwerkprogrammierung und cross-plattform-entwicklung\server_client_morsecode\binarytree.h
+
+1493577914 c:\users\caveman1\nextcloud\fh salzburg itsb-b2016\2. semester\softwareentwicklung 2\c von a bis z\kapitel 25 netzwerkprogrammierung und cross-plattform-entwicklung\server_client_morsecode\console.h
+
+1493578079 source:c:\users\caveman1\nextcloud\fh salzburg itsb-b2016\2. semester\softwareentwicklung 2\c von a bis z\kapitel 25 netzwerkprogrammierung und cross-plattform-entwicklung\server_client_morsecode\console.c
+	<stdio.h>
+	<stdlib.h>
+	"console.h"
+
+1493575252 source:c:\users\caveman1\nextcloud\fh salzburg itsb-b2016\2. semester\softwareentwicklung 2\kranzer simon\aufgaben\aufgabe 2\server_client_morsecode\binarytree.c
+	<stdio.h>
+	<stdlib.h>
+	"binarytree.h"
+
+1494874867 c:\users\caveman1\nextcloud\fh salzburg itsb-b2016\2. semester\softwareentwicklung 2\kranzer simon\aufgaben\aufgabe 2\server_client_morsecode\binarytree.h
+
+1495054606 source:c:\users\caveman1\nextcloud\fh salzburg itsb-b2016\2. semester\softwareentwicklung 2\kranzer simon\aufgaben\aufgabe 2\server_client_morsecode\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"binarytree.h"
+	"console.h"
+	<winsock2.h>
+	<pthread.h>
+	<time.h>
+
+1494957564 c:\users\caveman1\nextcloud\fh salzburg itsb-b2016\2. semester\softwareentwicklung 2\kranzer simon\aufgaben\aufgabe 2\server_client_morsecode\console.h
+	<winsock2.h>
+	"binarytree.h"
+
+1494959115 source:c:\users\caveman1\nextcloud\fh salzburg itsb-b2016\2. semester\softwareentwicklung 2\kranzer simon\aufgaben\aufgabe 2\server_client_morsecode\console.c
+	<stdio.h>
+	<stdlib.h>
+	"console.h"
+	<winsock2.h>
+	<time.h>
+	"binarytree.h"
+
+1494874867 source:c:\users\caveman1\nextcloud\fh salzburg itsb-b2016\2. semester\softwareentwicklung 2\kranzer simon\aufgaben\aufgabe 2\server_client_morsecode\binarytree_morse_code.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"binarytree.h"
+
+1494534760 source:c:\users\caveman1\nextcloud\fh salzburg itsb-b2016\2. semester\softwareentwicklung 2\kranzer simon\aufgaben\aufgabe 2\server_client_morsecode\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"console.h"
+	"binarytree.h"
+	"client.h"
+
+1494534798 source:c:\users\caveman1\nextcloud\fh salzburg itsb-b2016\2. semester\softwareentwicklung 2\kranzer simon\aufgaben\aufgabe 2\server_client_morsecode\server.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<winsock2.h>
+	"server.h"
+	"console.h"
+	<time.h>
+
+1494526963 c:\users\caveman1\nextcloud\fh salzburg itsb-b2016\2. semester\softwareentwicklung 2\kranzer simon\aufgaben\aufgabe 2\server_client_morsecode\client.h
+	<winsock2.h>
+
+1494709827 c:\users\caveman1\nextcloud\fh salzburg itsb-b2016\2. semester\softwareentwicklung 2\kranzer simon\aufgaben\aufgabe 2\server_client_morsecode\server.h
+	<winsock2.h>
+
